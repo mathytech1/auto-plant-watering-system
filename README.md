@@ -5,3 +5,6 @@ The "Auto Plant Watering with Arduino and MATLAB" project aims to automate the p
 
 ## Objectives
 The primary objective of this project was to design a system that automatically waters a plant based on the moisture content in the soil. The system ensures that the plant receives water when needed, promoting better growth and reducing the need for human involvement in routine watering.
+
+## **Setup and the graph while watering**
+![Auto plant watering](https://github.com/mathytech1/auto-plant-watering-system/images/screenshot.jpg)
